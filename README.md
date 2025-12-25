@@ -1,4 +1,4 @@
-# Speech Detection Pro
+# Speech Detection 
 
 A modern, high-performance web application for real-time speech-to-text transcription. Built with a premium glassmorphism interface and smooth user experience.
 
@@ -10,7 +10,7 @@ A modern, high-performance web application for real-time speech-to-text transcri
 - **Status Monitoring**: Visual status pill shows "Listening", "Paused", or "Error" states in real-time.
 - **Smooth Animations**: Natural fade-in transitions for new text segments.
 - **Auto-scroll**: Transcript area automatically follows your speech for hands-free documentation.
-- **Content Filter**: Fun built-in filter that replaces specific words with emojis (e.g., poop -> 💩).
+- **Content Filter**: Fun built-in filter that replaces specific words with emojis 
 
 ## Getting Started
 
