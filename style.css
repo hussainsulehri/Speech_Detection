@@ -153,3 +153,32 @@ p {
 ::-webkit-scrollbar-thumb:hover {
   background: rgba(255, 255, 255, 0.2);
 }
+
+.control-btn {
+  margin-left: 2rem;
+  padding: 0.6rem 1.6rem;
+  background: var(--primary);
+  border: none;
+  border-radius: 1.2rem;
+  color: white;
+  font-family: 'Outfit', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+}
+
+.control-btn:hover {
+  filter: brightness(1.1);
+  transform: translateY(-1px);
+}
+
+.control-btn:active {
+  transform: translateY(0);
+}
+
+.control-btn.stop {
+  background: #fb7185;
+  box-shadow: 0 4px 12px rgba(251, 113, 133, 0.3);
+}

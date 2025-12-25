@@ -6,6 +6,7 @@ A modern, high-performance web application for real-time speech-to-text transcri
 
 - **Real-time Transcription**: Uses the Web Speech API for instant, low-latency speech recognition.
 - **Premium UI**: Modern glassmorphism theme with `backdrop-filter` effects and deep slate gradients.
+- **Manual Control**: Toggle button to start/stop listening for full privacy and control.
 - **Status Monitoring**: Visual status pill shows "Listening", "Paused", or "Error" states in real-time.
 - **Smooth Animations**: Natural fade-in transitions for new text segments.
 - **Auto-scroll**: Transcript area automatically follows your speech for hands-free documentation.
